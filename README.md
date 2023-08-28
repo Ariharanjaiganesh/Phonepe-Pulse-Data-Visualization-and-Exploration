@@ -14,7 +14,7 @@ The PhonePe Pulse Data Visualization project provides a platform to explore and 
 - __[Requests](https://www.google.com/search?q=python+requests)__
 
 ## General workflow of this Project:
-![PhonePe Design](https://github.com/Ariharanjaiganesh/Guvi--Projects/blob/main/Phonepe_Pulse_Data_Visualization/phonephe%20project%20workflow.png)
+![PhonePe Design]([https://github.com/Ariharanjaiganesh/Guvi--Projects/blob/main/Phonepe_Pulse_Data_Visualization/phonephe%20project%20workflow.png](https://github.com/Ariharanjaiganesh/Phonepe-Pulse-Data-Visualization-and-Exploration/blob/main/phonephe%20project%20workflow.png))
 
 ## Features:
 
